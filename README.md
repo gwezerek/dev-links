@@ -1,7 +1,7 @@
 Gus's Links
 =========
 
-A collection of links that I've found useful or will find useful.
+A collection of links that I've found or will find useful.
 
 #### Similar Collections 
 
@@ -27,7 +27,7 @@ A collection of links that I've found useful or will find useful.
  * [Even _more_ CSS Transitions](http://daneden.me/animate/#cta)
  * [ElementQuery Polyfill](https://github.com/tysonmatanich/elementQuery)
 
- #### jQuery
+#### jQuery
 
  * [jQuery in 30 Days](https://tutsplus.com/course/30-days-to-learn-jquery/)
  * [jQuery Fundamentals](http://jqfundamentals.com/)
@@ -45,11 +45,8 @@ A collection of links that I've found useful or will find useful.
  * [Eloquent JS](http://eloquentjavascript.net/contents.html)
  * [Named Function Expressions](http://kangax.github.io/nfe/)
  * [Intro Functions](http://www.permadi.com/tutorial/jsFunc/index.html)
- 
  * [Learning JS the Right Way](http://javascriptissexy.com/how-to-learn-javascript-properly/)
  * [Learn Backbone.js](http://javascriptissexy.com/learn-backbone-js-completely/)
- * [Link name](link)
- * [Link name](link)
 
 #### JS Patterns
 
@@ -58,7 +55,7 @@ A collection of links that I've found useful or will find useful.
  * [Module Pattern In-Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
  * [Addy Osmani's Book](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
- #### JS Libraries
+#### JS Libraries
 
  * [Element Transitions](https://github.com/dan-silver/ElementTransitions.js)
  * [Responsive Library Links](http://alpha.responsivedesign.is/resources/javascript-jquery)
@@ -68,10 +65,6 @@ A collection of links that I've found useful or will find useful.
  * [Enquire.js](http://wicky.nillia.ms/enquire.js/)
  * [Autocomplete](http://twitter.github.io/typeahead.js/)
  * [FitText](http://fittextjs.com/)
- * [Link name](link)
- * [Link name](link)
- * [Link name](link)
- * [Link name](link)
 
 #### Debugging
 
@@ -99,13 +92,13 @@ A collection of links that I've found useful or will find useful.
 
  * [Getting Started with Grunt](http://moduscreate.com/get-up-and-running-with-grunt-js/)
 
- #### Video
+#### Video
 
  * [HTML5 Video Comparison](http://praegnanz.de/html5video/index.php)
  * [Fullscreen Video](http://css-tricks.com/custom-controls-in-html5-video-full-screen/)
 
 
- #### Responsive Images
+#### Responsive Images
 
  * [Defining the Problem](http://alistapart.com/article/mo-pixels-mo-problems)
  * [Generate with Grunt](http://addyosmani.com/blog/generate-multi-resolution-images-for-srcset-with-grunt/)
