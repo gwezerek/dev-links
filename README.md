@@ -1,11 +1,11 @@
-dev-links
+Gus's Links
 =========
 
 A collection of links that I've found useful or will find useful.
 
 #### Similar Collections 
 
- * [Dypsilon's List](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md)
+ * [Front-end Dev Links](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md)
  * [Art-directed Articles](https://docs.google.com/spreadsheet/ccc?key=0AnWYxsUNHS4FdGVYMnpkdGdTNTU0RS1SXzktcnZwRWc#gid=0)
  * [JS Books](http://lifeofjs.com/)
  * [Required Reading for Project Designers](http://robertlenne.com/requiredreading/)
