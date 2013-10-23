@@ -35,8 +35,8 @@ A collection of links that I've found or will find useful.
  * [Faster jQuery](http://addyosmani.com/jqprovenperformance/)
  * [Weaning Yourself Off jQuery](http://substack.net/weaning_yourself_off_jquery)
  * jQuery UI and Plugins
-  * [jQuery UI](http://jqfundamentals.com/)
-  * [jQuery Plugins](http://www.benplum.com/formstone/)
+  * [jQuery Plugins List](http://repo.jque.re/browse/)
+  * [Another jQuery Plugins List](http://www.benplum.com/formstone/)
 
 #### JS
 
