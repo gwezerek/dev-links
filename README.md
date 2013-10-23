@@ -12,7 +12,8 @@ A collection of links that I've found or will find useful.
 
 #### CSS
 
- * [Positioning Footers](http://alistapart.com/article/footers)
+ * [Known Height Sticky Footers](http://alistapart.com/article/footers)
+ * [Responsive Sticky Footers](http://timothy-long.com/responsive-sticky-footer/)
  * [Bringhurst Online](http://webtypography.net/toc/)
  * [Font Smoothing Best Practices](http://www.usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/)
  * [display: none and Accessibility](http://alistapart.com/article/now-you-see-me)
