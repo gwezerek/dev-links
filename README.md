@@ -130,9 +130,14 @@ A collection of links that I've found or will find useful.
  * [Custom Post Types and More](http://www.divshot.com/blog/web-development/advanced-jekyll-features/)
  * [Jekyll Responsive Images](https://github.com/robwierzbowski/jekyll-picture-tag)
 
+#### Wordpress
+
+ * [Jetpack Trix](http://georgestephanis.files.wordpress.com/2013/09/wcbaltimore.pdf)
+
 #### Case Studies
 
  * [Stammy's Portfolio](http://paulstamatiou.com/responsive-retina-blog-development-part-1)
+ * [Wicked Fast WP](https://speakerdeck.com/cferdinandi/wicked-fast-wordpress-wordcamp-boston-2013)
 
 #### To Read
 
