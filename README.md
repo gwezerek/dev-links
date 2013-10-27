@@ -133,6 +133,7 @@ A collection of links that I've found or will find useful.
 #### Wordpress
 
  * [Jetpack Trix](http://georgestephanis.files.wordpress.com/2013/09/wcbaltimore.pdf)
+ * [Replacing "The Loop" with Backbone.js](http://kadamwhite.github.io/talks/2013/backbone-wordpress-wcbos/#/38)
 
 #### Case Studies
 
