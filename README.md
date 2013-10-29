@@ -82,9 +82,7 @@ A collection of links that I've found or will find useful.
  * [Performance Golden Rule](http://www.stevesouders.com/blog/2012/02/10/the-performance-golden-rule/)
  * [Jank-free Websites](http://addyosmani.com/blog/making-a-site-jank-free/)
  * [Tools for Performance](https://www.youtube.com/watch?v=HAqjyCH_LOE)
- * [Link name](link)
- * [Link name](link)
- * [Link name](link)
+ * [Image Optimization Comparison](http://jamiemason.github.io/ImageOptim-CLI/)
  * Minification
   * [Text Compression and Gzip](http://www.html5rocks.com/en/tutorials/speed/txt-compression/)
   * [GzipWTF](http://gzipwtf.com/)
