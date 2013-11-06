@@ -48,6 +48,7 @@ A collection of links that I've found or will find useful.
  * [Intro Functions](http://www.permadi.com/tutorial/jsFunc/index.html)
  * [Learning JS the Right Way](http://javascriptissexy.com/how-to-learn-javascript-properly/)
  * [Learn Backbone.js](http://javascriptissexy.com/learn-backbone-js-completely/)
+ * [Backbone.js Online Book](http://pragmatic-backbone.com/)
 
 #### JS Patterns
 
