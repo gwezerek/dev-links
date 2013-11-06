@@ -123,6 +123,9 @@ A collection of links that I've found or will find useful.
 #### Data Viz
  * [Dan Nguyen's Small Data Viz](http://www.smalldatajournalism.com/)
 
+#### Statistics
+ * [Dan Nguyen's Small Data Viz](http://www.refsmmat.com/statistics/#the-woefully-complete-guide)
+
 #### Jekyll
 
  * [Jekyll by Example](http://www.andrewmunsell.com/tutorials/jekyll-by-example/)
