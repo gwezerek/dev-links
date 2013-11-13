@@ -49,6 +49,7 @@ A collection of links that I've found or will find useful.
  * [Learning JS the Right Way](http://javascriptissexy.com/how-to-learn-javascript-properly/)
  * [Learn Backbone.js](http://javascriptissexy.com/learn-backbone-js-completely/)
  * [Backbone.js Online Book](http://pragmatic-backbone.com/)
+ * [Understanding `this`](http://unschooled.org/2012/03/understanding-javascript-this/)
 
 #### JS Patterns
 
@@ -124,7 +125,7 @@ A collection of links that I've found or will find useful.
  * [Dan Nguyen's Small Data Viz](http://www.smalldatajournalism.com/)
 
 #### Statistics
- * [Dan Nguyen's Small Data Viz](http://www.refsmmat.com/statistics/#the-woefully-complete-guide)
+ * [Statistics, The Woefully Complete Guide](http://www.refsmmat.com/statistics/#the-woefully-complete-guide)
 
 #### Jekyll
 
