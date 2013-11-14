@@ -123,6 +123,7 @@ A collection of links that I've found or will find useful.
 
 #### Data Viz
  * [Dan Nguyen's Small Data Viz](http://www.smalldatajournalism.com/)
+ * [VUDLab](http://vudlab.com/#/)
 
 #### Statistics
  * [Statistics, The Woefully Complete Guide](http://www.refsmmat.com/statistics/#the-woefully-complete-guide)
