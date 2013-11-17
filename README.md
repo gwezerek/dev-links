@@ -124,6 +124,7 @@ A collection of links that I've found or will find useful.
 #### Data Viz
  * [Dan Nguyen's Small Data Viz](http://www.smalldatajournalism.com/)
  * [VUDLab](http://vudlab.com/#/)
+ * [Hall and Chapman's R Series](http://www.crcpress.com/browse/series/crctherser)
 
 #### Statistics
  * [Statistics, The Woefully Complete Guide](http://www.refsmmat.com/statistics/#the-woefully-complete-guide)
