@@ -72,6 +72,7 @@ A collection of links that I've found or will find useful.
 #### Debugging
 
  * [NYT Intro](http://open.blogs.nytimes.com/2013/08/27/the-young-developers-guide-to-debugging-javascript/?_r=2&)
+ * [Mobile Debugging and Workflow](https://speakerdeck.com/addyosmani/mobile-workflow)
 
 #### Performance
 
@@ -120,6 +121,7 @@ A collection of links that I've found or will find useful.
  * [Steve Witten's Site](http://acko.net/)
  * [Steve Witten's JSConf Talk](https://www.youtube.com/watch?v=GNO_CYUjMK8)
  * [Creator's Project Demo](https://www.youtube.com/watch?v=7yk1bWT8ulA)
+ * [Web GL Tools](http://www.realtimerendering.com/blog/webgl-debugging-and-profiling-tools/)
 
 #### Data Viz
  * [Dan Nguyen's Small Data Viz](http://www.smalldatajournalism.com/)
