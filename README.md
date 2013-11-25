@@ -98,6 +98,7 @@ A collection of links that I've found or will find useful.
 
  * [HTML5 Video Comparison](http://praegnanz.de/html5video/index.php)
  * [Fullscreen Video](http://css-tricks.com/custom-controls-in-html5-video-full-screen/)
+ * [Web Video Best Practices](http://coding.smashingmagazine.com/2013/11/18/the-future-of-video-in-web-design/)
 
 
 #### Responsive Images
