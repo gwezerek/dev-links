@@ -68,6 +68,7 @@ A collection of links that I've found or will find useful.
  * [Enquire.js](http://wicky.nillia.ms/enquire.js/)
  * [Autocomplete](http://twitter.github.io/typeahead.js/)
  * [FitText](http://fittextjs.com/)
+ * [List.js](http://listjs.com/)
 
 #### Debugging
 
@@ -125,11 +126,13 @@ A collection of links that I've found or will find useful.
  * [Web GL Tools](http://www.realtimerendering.com/blog/webgl-debugging-and-profiling-tools/)
 
 #### Data Viz
+
  * [Dan Nguyen's Small Data Viz](http://www.smalldatajournalism.com/)
  * [VUDLab](http://vudlab.com/#/)
  * [Hall and Chapman's R Series](http://www.crcpress.com/browse/series/crctherser)
 
 #### Statistics
+
  * [Statistics, The Woefully Complete Guide](http://www.refsmmat.com/statistics/#the-woefully-complete-guide)
 
 #### Jekyll
