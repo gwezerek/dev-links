@@ -50,6 +50,7 @@ A collection of links that I've found or will find useful.
  * [Learn Backbone.js](http://javascriptissexy.com/learn-backbone-js-completely/)
  * [Backbone.js Online Book](http://pragmatic-backbone.com/)
  * [Understanding `this`](http://unschooled.org/2012/03/understanding-javascript-this/)
+ * [Easing Animations](http://easings.net/)
 
 #### JS Patterns
 
