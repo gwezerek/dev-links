@@ -131,6 +131,7 @@ A collection of links that I've found or will find useful.
  * [Dan Nguyen's Small Data Viz](http://www.smalldatajournalism.com/)
  * [VUDLab](http://vudlab.com/#/)
  * [Hall and Chapman's R Series](http://www.crcpress.com/browse/series/crctherser)
+ * [Text Analysis](http://www.etcml.com/)
 
 #### Statistics
 
